@@ -1,0 +1,52 @@
+.flex {
+  flex-direction: column;
+  list-style-type: none;
+  border: 1px solid white;
+  padding: 70px;
+  font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  margin: 0;
+}
+.text > h3 {
+  font-size: 40px;
+  border-top: 3px solid black;
+  width: 70px;
+  padding: 5px;
+  margin-left: 25px;
+  
+ 
+}
+.text > p {
+  font-size: 20px;
+  position: relative;
+  float: left;
+  margin-top: 1px;
+  margin-bottom: 10px;
+  width: 60%;
+  padding: 2%;
+  
+}
+img {
+  float: right;
+  width: 300px;
+  height: 380px;
+  margin-top: -250px;
+  padding: 70px;
+  
+}
+.button2 {
+  background-color: transparent;
+  border: none;
+  background-color: black;
+  padding: 15px 32px;
+  text-decoration: none;
+  display: flex;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  color: white;
+  position: absolute;
+  margin-top: 140px;
+  margin-left: 30px;  
+  border-radius: 5px;
+}
+
