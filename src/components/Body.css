@@ -1,3 +1,8 @@
+.fotoja {
+  z-index: -1;
+  position: static;
+  width: auto;
+}
 .flex {
   flex-direction: column;
   list-style-type: none;
