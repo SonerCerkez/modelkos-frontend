@@ -1,0 +1,13 @@
+.container--6 {
+    
+    flex-direction: column;
+}
+.section--a {
+    flex-direction: row;
+}
+.section1 {
+    flex-direction: row;
+}
+.section2 {
+    flex-direction: row;
+}

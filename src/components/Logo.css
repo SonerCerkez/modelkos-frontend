@@ -1,0 +1,25 @@
+.logo--container {
+    display: flex;
+    flex-direction: row;
+    padding: 200px;
+}
+.portfolio--style2 {
+    padding: 7px;
+    margin-left: 30px;
+}
+.portfolio--style3 {
+    padding: 7px;
+    margin-top: -33px;
+}
+.portfolio--style4 {
+    margin-left: 70px;
+}
+.portfolio--style5 {
+    margin-left: 90px;
+}
+.logo-text h1 {
+    justify-content: center;
+    align-items: center;
+    margin-left: -730px;
+    margin-top: -120px;
+}

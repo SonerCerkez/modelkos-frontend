@@ -1,0 +1,67 @@
+.portfolio--line {
+    display: flex;
+    padding: 50px;
+    justify-content: center;
+    align-items: center;
+}
+.portfolio--style {
+    padding: 7px;
+}
+.portfolio--style1 {
+    padding: 7px;
+}
+.portfolio--style2 {
+    padding: 7px;
+}
+.portfolio--style3 {
+    padding: 7px;
+}
+.portfolio--line button {
+    position: absolute;
+    height: 40px;
+    margin-top: 590px;
+    margin-left: 140px;
+    background-color: transparent;
+    
+}
+.portfolio--style button {
+    background-color: transparent;
+    color: #fff;
+    border: 1px solid #fff;
+    border-width: 2px;
+    border-radius: 5px;
+    font-size: 23px;
+}
+.portfolio--style1 button {
+    background-color: transparent;
+    color: #fff;
+    border: 1px solid #fff;
+    border-width: 2px;
+    border-radius: 5px;
+    font-size: 23px;
+}
+.portfolio--style2 button {
+    background-color: transparent;
+    color: #fff;
+    border: 1px solid #fff;
+    border-width: 2px;
+    border-radius: 5px;
+    font-size: 23px;
+}
+.portfolio--style3 button {
+    background-color: transparent;
+    color: #fff;
+    border: 1px solid #fff;
+    border-width: 2px;
+    border-radius: 5px;
+    font-size: 23px;
+}
+
+.portfolio--style1 button {
+    position: absolute;
+    height: 40px;
+    margin-top: 590px;
+    margin-left: 140px;
+    background-color: transparent;
+
+}

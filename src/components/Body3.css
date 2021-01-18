@@ -1,0 +1,14 @@
+.container-3 {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+}
+
+.infinite2 img {
+    width: 30%;
+    margin-left: 585px;
+}
+.talent h3 {
+    font-size: 35px;
+}

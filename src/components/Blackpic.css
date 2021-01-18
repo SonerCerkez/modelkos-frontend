@@ -1,0 +1,56 @@
+.blackpic--style {
+    position: relative;
+    text-align: center;
+    color: #fff;
+    
+    
+}
+.fotoja2 img {
+    width: 99%;
+    height: 50%;
+
+}
+.fotoja3 img {
+    position: absolute;
+  bottom: 10px;
+  left: 100px;
+  height: 90%;
+}
+.lineheight1 img {
+    position: absolute;
+    margin-top: 77.9vh;
+    margin-left: -46.5vh;
+    z-index: 1;
+}
+.lineheight2 img {
+    position: absolute;
+    margin-top: 88vh;
+    margin-left: -46.5vh;
+    z-index: 1;
+}
+.lineheight3 img {
+    position: absolute;
+    margin-top: 83vh;
+    margin-left: -46.5vh;
+    z-index: 1;
+
+}
+.black--text h1 {
+    text-align: center;
+    position: absolute;
+    top: 40%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    font-size: 35px;
+    height: 50px;
+    
+
+    
+}
+.lineheight img {
+    width: 99%;
+    margin-top: 20px;
+    margin-left: -940px;
+    position: absolute;
+    
+}
