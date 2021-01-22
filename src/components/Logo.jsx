@@ -9,6 +9,7 @@ import img5 from '../assets/ZARA.png'
 
 
 
+
 function Logo() {
     return(
         
@@ -32,9 +33,7 @@ function Logo() {
             <div className='portfolio--style5' >
             <img src={img5} alt=""/>
             </div>
-            <div className='logo-text'>
-            <h1>OUR CLIENTS</h1>
-            </div>
+            
             
          
             

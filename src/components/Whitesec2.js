@@ -23,9 +23,15 @@ function Whitesec2() {
                 <img src={img22} alt=""/> 
                 </div>  
                 <div className="tree">
-                <img src={img21} alt=""/>                        
-                <img src={img19} alt=""/>                                            
+                    <div className="tree1">
+                <img src={img21} alt=""/>  
+                </div>           
+                <div className="tree2">           
+                <img src={img19} alt=""/>
+                </div>                
+                <div className="tree3">                       
                 <img src={img20} alt=""/>
+                </div>     
                 </div>
                 </div>
                 </div>

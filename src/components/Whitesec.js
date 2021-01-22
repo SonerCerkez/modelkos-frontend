@@ -57,9 +57,12 @@ function Whitesec() {
                     <div className="midabs">
                 <img src={img12} alt=""/>
                 </div>
-                
+                <div className="goat">  
                 <img src={img13} alt=""/>
+                </div>
+                <div className="send">
                 <img src={img11} alt=""/>
+                </div>
                 <img src={img14} alt=""/>
                 
                 <div className="lapind">
@@ -93,13 +96,17 @@ function Whitesec() {
             
             <div className='content--2'>
                 <div className="pathone">
+                
             <img src={img5} alt=""/>
             </div>
             
                 <img src={img6} alt=""/>
                 <img src={img7} alt=""/>
                 <img src={img8} alt=""/>
+                
+                <div className="lineone">
                 <img src={img9} alt=""/>
+                </div>
                 
 
                 <div className="polygon">

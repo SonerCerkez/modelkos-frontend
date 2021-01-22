@@ -2,6 +2,8 @@ import React, { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import './Navbar.css' 
 import { Button } from './Button'
+import img1 from '../assets/modelkoslogo.png'
+
  
 function Navbar() {
 
@@ -27,11 +29,12 @@ function Navbar() {
 
     return (
         <div>
+            
             <nav className="navbar">
                 <div className="navbar-container">
                 <Link to="/" className="navbar-logo" onClick={closeMobileMenu} >
-                    ModelKos <i class="fab fa-affiliatetheme"></i>
-                </Link>
+                <img src={img1} alt=""/>
+                </Link>              
                 <div className='menu-icon' onClick={handleClick}>
                     <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
                 </div>

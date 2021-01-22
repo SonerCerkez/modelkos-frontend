@@ -2,6 +2,9 @@ import './Body.css'
 import '../App.css'
 import './Button.css'
 import img from '../assets/10366.png'
+import img1 from '../assets/longline.png'
+import img2 from '../assets/ourstory.png'
+import img3 from '../assets/shortline.png'
 
 
 
@@ -12,8 +15,15 @@ function Body() {
         
         <div className='container-1'>
             <div className='box-1'>
-                <h1>Our Story</h1>             
+                        <img src={img1} alt=""/>      
                 </div>
+                <div className="inline">
+                <img src={img2} alt=""/>  
+                </div>  
+                <div className="inlineimage">
+                <img src={img3} alt=""/>
+                </div>
+                
                 <div className='box-2'>
                 <div className='foto'>
                 <img src={img} alt="model8"/> 

@@ -12,6 +12,11 @@
     margin-bottom: 100px;
 
 }
+.line14 img {
+    position: absolute;
+    margin-top: -53px;
+    
+}
 .content--1 img {
     padding: 10px;
 }
@@ -36,7 +41,7 @@
 }
 .content--2 {
     
-    margin-left: -33vh;
+    margin-left: -10vh;
     justify-content: flex-end;
     margin-top: 35vh;
 }
@@ -53,7 +58,7 @@
 .polygon img {
     margin-bottom: -10px;
     margin-top: -39px;
-    margin-left: -28px;
+    margin-left: -109px;
 }
 .linefull img {
     margin-top: 40px;
@@ -72,6 +77,16 @@
 .midabs img {
     position: absolute;
     z-index: -1;
+    margin-top: -15px;
+    margin-left: -40px;
+}
+.goat img {
+    position: absolute;
+}
+.send img {
+    position: relative;
+    margin-left: 70px;
+    margin-bottom: 20px;
 }
 
 .lapind img {
@@ -102,4 +117,7 @@
     margin-left: 70vh;
     display: flex;
     flex-direction: row;
+}
+.lineone img {
+    margin-left: -80px;
 }

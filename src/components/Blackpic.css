@@ -2,14 +2,20 @@
     position: relative;
     text-align: center;
     color: #fff;
-    
-    
-    
+     
 }
+
+
 .fotoja2 img {
     width: 99%;
     height: 50%;
-
+}
+.whiteline img {
+    position: absolute;
+    margin-top: -50px;
+    margin-left: -45vh;
+    width: 72%;
+    z-index: 1;
 }
 .fotoja3 img {
     position: absolute;
@@ -19,19 +25,19 @@
 }
 .lineheight1 img {
     position: absolute;
-    margin-top: 77.9vh;
+    margin-top: 90vh;
     margin-left: -46.5vh;
     z-index: 1;
 }
 .lineheight2 img {
     position: absolute;
-    margin-top: 88vh;
+    margin-top: 94.8vh;
     margin-left: -46.5vh;
     z-index: 1;
 }
 .lineheight3 img {
     position: absolute;
-    margin-top: 83vh;
+    margin-top: 84.8vh;
     margin-left: -46.5vh;
     z-index: 1;
 

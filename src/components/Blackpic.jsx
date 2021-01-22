@@ -7,6 +7,9 @@ import img3 from '../assets/Line.png'
 import img4 from '../assets/icon.png'
 import img5 from '../assets/icon.png'
 import img6 from '../assets/icon.png'
+import img7 from '../assets/whiteline.png'
+
+
 
 
 
@@ -42,6 +45,10 @@ function  Blackpic() {
             <div className='black--text'> 
             <h1>BEING PRETTY IS BENEFICIAL BEING PROFFESIONAL IS INVALUABLE</h1>
             </div> 
+            <div className="whiteline">
+            <img src={img7} alt=""/>
+            </div>
+           
             
 
             

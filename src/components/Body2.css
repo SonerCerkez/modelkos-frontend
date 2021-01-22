@@ -11,7 +11,18 @@
     font-size: 20px;
     float: right;
 }
-
+.longline img {
+    margin-left: 80vh;
+}
+.shortline img {
+    margin-left: 118vh;
+    position: absolute;
+    margin-top: 45px;
+}
+.aboutus img {
+    margin-left: 90vh;
+    margin-top: 2vh;
+}
 .para2 p {
     width: 50%;
     margin-right: 25px;
@@ -22,7 +33,7 @@
 .container--djathtas h1 {
     font-size: 40px;
     margin-left: 850px;
-    border-top: 3px solid black;
+    
 }
 .container--djathtas button {
     float: right;

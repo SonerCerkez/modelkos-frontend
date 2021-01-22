@@ -11,9 +11,23 @@
 .lastsection img {
     position: absolute;
     z-index: -1;
-    margin-left: 1vh;
+    margin-left: 13vh;
+    margin-top: -1vh;
 }
 .tree img {
-    margin-left: 5vh;
+    margin-left: 17vh;
 }
+.tree1 img {
+    
+    position: absolute;
+}
+.tree2 img {
+    margin-bottom: 30px;
+    margin-left: 250px;
 
+}
+.tree3 img {
+    position: absolute;
+    margin-bottom: 50px;
+    margin-left: 190px;
+}
