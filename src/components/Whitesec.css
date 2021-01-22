@@ -1,13 +1,105 @@
 .container--6 {
+    padding: 90px;
+    margin-top: 150px;
+    display: flex;
+    flex-direction: row;
+}
+.content--1 {
+    padding: 70px;
     
+    display: grid;
+    flex-direction: column;
+    margin-bottom: 100px;
+
+}
+.content--1 img {
+    padding: 10px;
+}
+.int img {
+    margin-top: -100px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 20vh;
+    margin-top: 1px;
+    
+}
+
+.twopic img {
+    display: flexbox;
     flex-direction: column;
 }
-.section--a {
-    flex-direction: row;
+.app img {
+    margin-left: 120px;
 }
-.section1 {
-    flex-direction: row;
+.laptop img {
+    margin-top: 15vh;
 }
-.section2 {
+.content--2 {
+    
+    margin-left: -33vh;
+    justify-content: flex-end;
+    margin-top: 35vh;
+}
+.content--2 img {
+    padding: 15px;
+
+}
+.pathone img {
+    position: absolute;
+    margin-left: -33px;
+    margin-bottom: 10px;
+    z-index: -1;
+}
+.polygon img {
+    margin-bottom: -10px;
+    margin-top: -39px;
+    margin-left: -28px;
+}
+.linefull img {
+    margin-top: 40px;
+}
+.middle--section {
+    margin-top: 20vh;
+    display: flexbox;
+    flex-direction: row;
+    
+    margin-bottom: 15vh;
+    padding: 15px;
+    width: 100%;
+    
+    
+}
+.midabs img {
+    position: absolute;
+    z-index: -1;
+}
+
+.lapind img {
+    float: right;
+    margin-right: -60vh;
+    margin-top: -25vh;
+    
+}
+
+.line2 img {
+    float: right;
+    margin-left: -13vh;
+}
+.linepoly img {
+    margin-top: 38vh;
+    margin-left: -6.5vh;
+    z-index: -1;
+}
+.lapmid1 img {
+    margin-right: -70vh;
+}
+.lapmid2 img {
+    margin-left: 100vh;
+    z-index: -1;
+    position: absolute;
+}
+.lastsection img {
+    margin-left: 70vh;
+    display: flex;
     flex-direction: row;
 }

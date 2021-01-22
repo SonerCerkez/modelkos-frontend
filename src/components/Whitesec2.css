@@ -1,0 +1,19 @@
+.container--7 {
+    margin-top: -40vh;
+  
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+    margin-left: 10vh;
+    
+    
+}
+.lastsection img {
+    position: absolute;
+    z-index: -1;
+    margin-left: 1vh;
+}
+.tree img {
+    margin-left: 5vh;
+}
+

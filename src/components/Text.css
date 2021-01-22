@@ -1,0 +1,16 @@
+.container--portfoliomid img {
+    display: flex;
+    flex-direction: column;
+    padding: 8px;
+    margin-top: 60px;
+    margin-left: 100px;
+}
+.modelbook img {
+    margin-left: 22vh;
+    margin-top: -5vh;
+    position: absolute;
+}
+.shortl img {
+    margin-top: -1vh;
+    margin-left: 17vh;
+}

@@ -33,11 +33,12 @@
     padding: 10px;
     margin-right: 400px;
     margin-left: 45px;
+    width: 25%;
     
 }
 
 .hero-container > p {
-    margin-top: 8px;
+    margin-top: 1px;
     color: #fff;
     justify-content: left;
     font-size: 23px;

@@ -9,6 +9,11 @@ import Blackpic from '../Blackpic'
 import Logo from '../Logo'
 import Middle from '../Middle'
 import Whitesec from '../Whitesec'
+import Whitesec2 from '../Whitesec2'
+import Text from '../Text'
+import Portfolio2 from '../Portfolio2'
+import Clients from '../Clients'
+
 
 
 
@@ -30,6 +35,11 @@ import Whitesec from '../Whitesec'
         <Logo />
         <Middle />
         <Whitesec />
+        <Whitesec2 />
+        <Text />
+        <Portfolio2 />
+        <Clients />
+        
         
         
         

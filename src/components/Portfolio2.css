@@ -1,0 +1,78 @@
+.portfolio2--line {
+display: flex;
+padding: 60px;
+justify-content: center;
+align-items: center;
+flex-direction: row;
+align-items: center;
+}
+
+.portfolio2--style {
+    border: 2px solid goldenrod;
+    padding: 10px;
+    height: 57vh;
+    width: 43vh;
+    flex-direction: row;
+    margin-right: 10px;
+    border-radius: 15px;
+}
+.portfolio2--style1 {
+    border: 1px solid black;
+    height: 57vh;
+    flex-direction: row;
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 15px;
+}
+.portfolio2--style2 {
+    border: 1px solid black;
+    height: 57vh;
+    flex-direction: row;
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 15px;
+}
+.portfolio2--style3 {
+    border: 1px solid black;
+    flex-direction: row;
+    height: 57vh;
+    padding: 10px;
+    border-radius: 15px;
+    justify-content: center;
+}
+.portfolio2--line img {
+    align-items: center;
+    justify-content: center;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+@media screen and (max-width: 960px) {
+    .portfolio2--line {
+        position: relative;
+    }
+}
+
+.portfolio2--line button {
+    font-size: 18px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 14vh;
+    margin-top: 12vh;
+    background-color: black;
+    color: #fff;
+    width: 150px;
+    height: 40px;
+}
+.imgse img {
+    margin-bottom: -28px;
+}
+.imgei img {
+    margin-bottom: 10px;
+}
+.coaching img {
+    margin-left: 50px;
+    margin-top: 25px;
+}
+.coaching button {
+    margin-top: 30px;
+}
