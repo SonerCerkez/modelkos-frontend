@@ -1,0 +1,41 @@
+
+.clients {
+    display: flex;
+    flex-direction: row;
+    
+}
+.child1 img {
+   align-items: center;
+   justify-content: center;
+   margin-left: auto;
+   margin-top: auto;
+   margin-bottom: auto;
+   margin-right: auto;
+   display: block;
+   
+   
+}
+.child2 img {
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+ }
+ .child3 img {
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    display: block;
+ }
+.background {
+    position: absolute;
+    z-index: -1;
+    width: fit-content;
+}
+.rectangle1 {
+    position: absolute;
+    z-index: -1;
+}

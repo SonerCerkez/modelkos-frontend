@@ -10,7 +10,8 @@ import img5 from '../assets/organize.png'
 import img6 from '../assets/coaching.png'
 import img7 from '../assets/modelkos.png'
 import img8 from '../assets/additional.png'
-
+import { Button } from './Button'
+ 
 
 
 
@@ -22,7 +23,7 @@ function Portfolio2() {
         <div className='portfolio2--style' >
         <img src={img1} alt=""/>           
         <img src={img5} alt=""/>     
-        <button>Learn More</button>      
+        <Button buttonStyle='btn--outlinee12'>Learn More</Button>       
         </div>
         
         
@@ -33,7 +34,7 @@ function Portfolio2() {
         <div className="coaching">
         <img src={img6} alt=""/>
         </div>
-        <button>Learn More</button>
+        <Button buttonStyle='btn--outlinee12'>Learn More</Button>
         </div>
 
         <div className='portfolio2--style2'>
@@ -42,7 +43,7 @@ function Portfolio2() {
         <div className="imgse">
         <img src={img7} alt=""/>
         </div>
-        <button>Learn More</button>
+        <Button buttonStyle='btn--outlinee12'>Learn More</Button>
         </div>
 
         <div className= 'portfolio2--style3'>
@@ -51,7 +52,7 @@ function Portfolio2() {
         <div className="imgei">  
         <img src={img8} alt=""/>
         </div>   
-        <button>Learn More</button>  
+        <Button buttonStyle='btn--outlinee12'>Learn More</Button> 
         </div> 
                                      
     </div>    

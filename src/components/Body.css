@@ -72,7 +72,14 @@
   background-color: black;
   color: #fff;
 }
-  
+.btn--style1 {
+    
+    color: #fff;
+    padding: 8px 20px;
+    border: 1px solid var(--primary);
+    transition: all 0.3s ease-out;
+    
+}
 
 
 

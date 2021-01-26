@@ -6,6 +6,7 @@ import img2 from '../assets/spot.png'
 import img3 from '../assets/become.png'
 import img4 from '../assets/are.png'
 import img5 from '../assets/pre.png'
+import { Button } from './Button'
 
 
 
@@ -33,7 +34,7 @@ function Middle() {
         <img src={img5} alt=""/>
         </div>
         <div className="custom4">
-        <button>Become a model</button>
+        <Button buttonStyle='btn--outlinee12'>Become a model</Button> 
         </div>
         </div>
         </div>

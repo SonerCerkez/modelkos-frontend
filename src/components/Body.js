@@ -1,11 +1,11 @@
 import './Body.css'
 import '../App.css'
-import './Button.css'
+
 import img from '../assets/10366.png'
 import img1 from '../assets/longline.png'
 import img2 from '../assets/ourstory.png'
 import img3 from '../assets/shortline.png'
-
+import { Button } from './Button'
 
 
 
@@ -35,8 +35,8 @@ function Body() {
                 </p>         
                 </div>          
                 
-            <button>Read More</button> 
-                                             
+                <Button buttonStyle='btn--outlinee12'>Read More</Button> 
+                
         </div>        
         </div>  
         

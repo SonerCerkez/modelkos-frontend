@@ -1,0 +1,22 @@
+.images img {
+    display: block;
+    margin-left: 100px;
+    margin-top: 5vh;
+}
+.messages {
+    padding: 60px;
+}
+.message {
+    float: right;
+    position: absolute;
+    margin-left: 140vh;
+    margin-top: -25vh;
+    
+}
+.touch img {
+    margin-left: 170px;
+}
+.shortline img {
+    position: absolute;
+    margin-top: -28px;
+}
