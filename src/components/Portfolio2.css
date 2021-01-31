@@ -8,26 +8,26 @@
     .portfolio2--style {
     display: grid;
     border: 2px solid gold;
-    border-radius: 8px;
+    border-radius: 20px;
     margin-right: 5px;
     }
     .portfolio2--style1 {
     display: grid;
-    border-radius: 8px;
+    border-radius: 20px;
     border: 1px solid black;
     height: 56vh;  
     margin-right: 5px;
     }
     .portfolio2--style2 {
     display: grid;
-    border-radius: 8px;
+    border-radius: 20px;
     border: 1px solid black;
     height: 56vh;
     margin-right: 5px;
     }
     .portfolio2--style3 {
     display: grid;
-    border-radius: 8px;
+    border-radius: 20px;
     border: 1px solid black;
     height: 56vh;
     margin-right: 5px;
@@ -36,26 +36,72 @@
         margin-left: auto;
         margin-right: auto;
         padding: 40px;
-        margin-bottom: 10px;
+        margin-bottom: -20px;
         
     }
     .portfolio2--style1 img {
         margin-left: auto;
         margin-right: auto;
-        padding: 40px;
+        padding: 45px;
+        margin-bottom: -20px;
+        
     }
     .portfolio2--style2 img {
         margin-left: auto;
         margin-right: auto;
         padding: 40px;
+        margin-bottom: -20px;
     }
     .portfolio2--style3 img {
         margin-left: auto;
         margin-right: auto;
         padding: 40px;
+        
     }
     
     .coaching img {
         margin-left: 35px;
     }
+    .portfolio2--style button {
+        position: relative;
+        color: white;
+        background-color: black;
+        width: 150px;
+        justify-content: center;
+    }
+    .portfoliobutton button {
+        margin-left: 140px;
+        margin-bottom: 10px;
+    }
+    .portfoliobutton1 button {
+        margin-left: 140px;
+        margin-bottom: 10px;
+        position: relative;
+        color: white;
+        background-color: black;
+        width: 150px;
+        justify-content: center;
+        
+    }
+    .portfoliobutton3 button {
+        margin-left: 165px;
+        background-color: transparent;
+        margin-bottom: 10px;
+        position: relative;
+        color: white;
+        background-color: black;
+        width: 150px;
+        justify-content: center;
+    }
+.portfoliobutton1 button {
+   border: 2px solid black;
     
+}
+.portfoliobutton3 button {
+    border: 2px solid black;
+     
+ }
+ .portfoliobutton button {
+    border: 2px solid black;
+     
+ }

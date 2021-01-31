@@ -5,8 +5,8 @@
 }
 
 .container--djathtas p {
-    width: 80%;
-    margin-right: -120px;
+    width: 100%;
+    margin-left: -20px;
     font-weight: 600;
     font-size: 20px;
     float: right;
@@ -23,6 +23,7 @@
     margin-left: 90vh;
     margin-top: 2vh;
 }
+
 .para2 p {
     width: 50%;
     margin-right: 25px;
@@ -44,5 +45,11 @@
     color: #fff;
     margin-right: -600px;
     margin-top: 17%;
+}
+
+.para2 button {
+    font-size: 18px;
+    width: 150px;
+    border: 2px solid black;
 }
 

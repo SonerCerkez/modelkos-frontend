@@ -20,11 +20,12 @@ function Portfolio2() {
     
     return (
         <div className='portfolio2--line'>
-        <div className='portfolio2--style' >
+        <div className='portfolio2--style'>
         <img src={img1} alt=""/>           
         <img src={img5} alt=""/>    
-         
-        <Button buttonStyle='btn--outline'>Learn More</Button>  
+         <div className="portfoliobutton">
+        <Button buttonStyle='btn--outline'>Learn More</Button>
+        </div>  
         </div>
         
         
@@ -34,7 +35,9 @@ function Portfolio2() {
         <img src={img2} alt=""/>
         <div className="coaching">
         <img src={img6} alt=""/>
+        <div className="portfoliobutton1">
         <Button buttonStyle='btn--outline'>Learn More</Button>  
+        </div>
         </div>
         
         </div>
@@ -44,8 +47,9 @@ function Portfolio2() {
         <img src={img3} alt=""/>
         <div className="imgse">
         <img src={img7} alt=""/>
-        
-        <Button buttonStyle='btn--outline'>Learn More</Button>  
+        <div className="portfoliobutton1">
+        <Button buttonStyle='btn--outline'>Learn More</Button>
+        </div>  
         </div>
         
         </div>
@@ -55,7 +59,9 @@ function Portfolio2() {
         <img src={img4} alt=""/>   
         <div className="imgei">  
         <img src={img8} alt=""/>
-        <Button buttonStyle='btn--outline'>Learn More</Button>  
+        <div className="portfoliobutton3">
+        <Button buttonStyle='btn--outline'>Learn More</Button> 
+        </div> 
         </div>   
         
         </div> 

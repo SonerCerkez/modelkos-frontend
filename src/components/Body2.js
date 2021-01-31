@@ -34,11 +34,14 @@ function Body2() {
                 <div className="para2">
                 <p>ModelKos was build in fundamental principles of supplying quality talent to quality clients. 
                     The number of beautiful women in Kosovo is extensive. With all these talents around we have 
-                    decided to give them the chance to be models. We are one of the fastest growing agency's in Kosovo.</p>
+                    decided to give them the chance to be models. We are one of the fastest growing agency's in Kosovo.</p>  
+                    <Button buttonStyle='btn--outlinee12'>Read More</Button>                        
+                    </div>   
+                      
                     
-                    <Button buttonStyle='btn--outlinee12'>Read More</Button>     
-                    </div>                           
+                  
             </div>
+            
         </div>
              
         

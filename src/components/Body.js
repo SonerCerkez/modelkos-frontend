@@ -33,9 +33,10 @@ function Body() {
                     in Kosovo is extensive. With all these talents around we have decided to give them the chance to be models.
                     We are one of the fastest growing agency's in Kosovo.
                 </p>         
+                <Button buttonStyle='btn--outlinee12'>Read More</Button> 
                 </div>          
                 
-                <Button buttonStyle='btn--outlinee12'>Read More</Button> 
+                
                 
         </div>        
         </div>  

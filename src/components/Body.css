@@ -27,6 +27,9 @@
 .para p {
   width: 50%;
 }
+.para button:hover {
+  border: 2px solid black;
+}
 .box-1 h1 {
   display: inline;
   margin-left: 20px;
