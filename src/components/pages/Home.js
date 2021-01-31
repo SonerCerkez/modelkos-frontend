@@ -28,6 +28,7 @@ import Footer from '../Footer'
 
 
 
+
     function Home () {
         return (
         <>
@@ -46,6 +47,7 @@ import Footer from '../Footer'
         <Portfolio2 />
         <Clients />
         <Message />
+        
         <Newsletter />
         
         <Footer />

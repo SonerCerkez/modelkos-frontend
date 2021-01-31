@@ -23,7 +23,7 @@ function Newsletter() {
               className='footer-input'
               name='email'
               type='email'
-              placeholder='Your Email'
+              placeholder='Enter your e-mail'
             />
             <Button buttonStyle='btn--outline'>Subscribe</Button>
           </form>

@@ -5,6 +5,7 @@
 }
 .messages {
     padding: 60px;
+    margin-top: 20vh;
 }
 .message {
     float: right;

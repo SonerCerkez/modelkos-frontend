@@ -9,8 +9,11 @@
     border: 1px solid #fff;
     justify-content: center;
     align-items: center;
+    
   }
-  
+  .newsletter-items {
+      width: 99%;
+  }
   .newsletter > h1 {
       font-size: 55px;
       justify-content: center;
@@ -28,6 +31,7 @@
   .image img {
       position: absolute;
       z-index: -1;
+      width: 100%;
       
   }
   .flex-items {

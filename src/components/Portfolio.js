@@ -6,6 +6,8 @@ import img1 from '../assets/portfolio1.png'
 import img2 from '../assets/portfolio2.png'
 import img3 from '../assets/portfolio3.png'
 import img4 from '../assets/portfolio4.png'
+
+
 import { Button } from './Button'
 
 
@@ -35,8 +37,8 @@ function Portfolio() {
             <Button buttonStyle='btn--outlinee12'>View More</Button> 
             <img src={img4} alt="portfolio4"/>     
             </div> 
-                                         
-        </div>  
+            
+        </div>
         
          
          
