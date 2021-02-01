@@ -17,6 +17,7 @@ import Middlelogo from '../Middlelogo'
 import Message from '../Message'
 import Newsletter from '../Newsletter'
 import Footer from '../Footer'
+import Form from '../Form'
 
 
 
@@ -47,6 +48,7 @@ import Footer from '../Footer'
         <Portfolio2 />
         <Clients />
         <Message />
+        <Form />
         
         <Newsletter />
         

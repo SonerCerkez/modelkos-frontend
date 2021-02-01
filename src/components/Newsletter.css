@@ -9,10 +9,14 @@
     border: 1px solid #fff;
     justify-content: center;
     align-items: center;
-    
+  }
+  .flex-items input {
+      
+      position: absolute;
   }
   .newsletter-items {
       width: 99%;
+      
   }
   .newsletter > h1 {
       font-size: 55px;
@@ -26,7 +30,7 @@
       justify-content: center;
       align-items: center;
       margin-top: 20px;
-      margin-bottom: 180px;
+      margin-bottom: 147px;
   }
   .image img {
       position: absolute;
@@ -45,4 +49,12 @@
         padding-top: 2rem;
     }
 
+}
+.newsletter button {
+    margin-left: 28vh;
+    position: relative;
+    margin-bottom: -120px;
+    background-color: black;
+    border: 1px solid black;
+    color: #fff;
 }

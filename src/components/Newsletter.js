@@ -25,7 +25,9 @@ function Newsletter() {
               type='email'
               placeholder='Enter your e-mail'
             />
+            <div className="newsletter">
             <Button buttonStyle='btn--outline'>Subscribe</Button>
+            </div>
           </form>
             </div>
             
