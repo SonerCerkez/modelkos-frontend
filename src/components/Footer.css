@@ -5,12 +5,11 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    width: 100%;
 
 }
 .footer-subscription-text img {
     color: #fff;
-    
-  
 }
 .social-logo img {
     color: black;
