@@ -18,6 +18,7 @@ function Portfolio() {
     return (
         
         <div className='portfolio--line'>
+           
             <div className='portfolio--style' >
             <Button buttonStyle='btn--outlinee12'>View More</Button> 
             <img src={img1} alt="portfolio1"/>           

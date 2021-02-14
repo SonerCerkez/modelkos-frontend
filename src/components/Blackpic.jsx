@@ -11,8 +11,6 @@ import img7 from '../assets/whiteline.png'
 
 
 
-
-
 function  Blackpic() {
         
     return(

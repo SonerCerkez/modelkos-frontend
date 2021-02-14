@@ -7,6 +7,7 @@ import { Link } from 'react-router-dom';
 import { Button } from './Button'
 
 
+
 function Footer() {
   return (
     <div className='footer-container'>
@@ -25,9 +26,7 @@ function Footer() {
         </div>
         <div className="line83">
             <img src={img2} alt=""/>
-        </div>
-        
-        
+        </div>        
       </section>
       <div class='footer-links'>
         <div className='footer-link-wrapper'>
@@ -71,7 +70,7 @@ function Footer() {
             <img src={img3} alt=""/>
         </div>
         <div class='footer-rights'>
-            <small>© 2020 ModelKos. All Rights Reserved</small>
+            <small>© 2021 ModelKos. All Rights Reserved</small>
             <Link to='/'>Terms of use | Privacy</Link>
             <small>+ 383 (45) 000 222 333</small>
             <Button buttonStyle='btn--outline'>English</Button>         

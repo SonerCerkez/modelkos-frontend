@@ -49,9 +49,7 @@ import Form from '../Form'
         <Clients />
         <Message />
         <Form />
-        
-        <Newsletter />
-        
+        <Newsletter />      
         <Footer />
         
         
