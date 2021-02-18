@@ -105,3 +105,8 @@
     border: 2px solid black;
      
  }
+ @media screen and (max-width: 768px) {
+    .portfolio2--line {
+        flex-direction: column;
+    }
+}
