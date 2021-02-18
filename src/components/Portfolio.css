@@ -65,6 +65,8 @@
     background-color: transparent;
 
 }
-@media only screen and (max-width: 768px) {
-    
-  }
+@media screen and (max-width: 768px) {
+    .portfolio--line {
+        flex-direction: column;
+    }
+}
