@@ -5,16 +5,21 @@
 .container-1 div {
   padding: 1px;
 }
-.inline img {
+.inline {
   display: flex;
-  margin-left: 190px;
-  margin-top: 10px;
+  margin-left: -30vh;
+  font-weight: 900;
+  font-size: 22px;
+  margin-top: -33px;
   position: absolute;
 }
 .inlineimage img {
   position: absolute;
   margin-top: 35px;
   margin-left: 30px;
+  width: 3%;
+  height: 0.7%;
+  
 }
 .box-1 {
   height: 100%;
@@ -23,6 +28,10 @@
   margin-left: 30px;
   font-size: 20px;
   margin-top: 40px;
+}
+.box-1 img {
+  width: 22%;
+  
 }
 .para p {
   width: 50%;

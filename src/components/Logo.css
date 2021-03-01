@@ -1,9 +1,7 @@
 .logo--container {
     display: flex;
     flex-direction: row;
-    padding: 200px;
-    
-    
+    padding: 200px;   
 }
 .portfolio--style2 {
     padding: 7px;

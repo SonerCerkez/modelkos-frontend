@@ -2,7 +2,7 @@ import './Body3.css'
 import '../App.css'
 import './Button.css'
 import img from '../assets/infinite.png'
-import img1 from '../assets/ourtalent.png'
+
 
 
 
@@ -18,7 +18,7 @@ function Body3() {
                   
                   </div>  
                 <div className='talent'>   
-                <img src={img1} alt="model8"/>
+                <h1>OUR BEAUTIFUL TALENT</h1>
                 
                                                                                 
                 </div>                                                                              

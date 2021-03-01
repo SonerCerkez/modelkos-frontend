@@ -41,7 +41,7 @@ function Whitesec() {
                 
                 <div className="twopic">
                     <div className="app">
-                <img src={img3} alt=""/>
+                    <h1>Application steps</h1>
                 </div>
                 
                 
@@ -99,11 +99,11 @@ function Whitesec() {
                 
             <img src={img5} alt=""/>
             </div>
-            
+                <div className="right">
                 <img src={img6} alt=""/>
-                <img src={img7} alt=""/>
-                <img src={img8} alt=""/>
-                
+                <h1>Online Application</h1>
+                <p>Check the requirements for becoming a model <br /> and if you think you are a perfect fit, follow step2.</p>
+                </div>
                 <div className="lineone">
                 <img src={img9} alt=""/>
                 </div>

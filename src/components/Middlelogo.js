@@ -1,7 +1,7 @@
 import React from 'react'
 import './Blackpic.css'
 import '../App.css'
-import img1 from '../assets/ourclients.png'
+
 
 
 
@@ -13,12 +13,11 @@ function  Middlelogo() {
         <div className='blackpic--style'>
 
             
-           <div className="middlecli">
-            <img src={img1} alt=""/>
+           <div className="ourclients">
+           <h1 style={{color: "black"}}>OUR CLIENTS</h1>
             </div>
 
-            
-                   
+                               
         </div>  
         
             

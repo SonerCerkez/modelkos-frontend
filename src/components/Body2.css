@@ -20,11 +20,17 @@
 .shortline img {
     margin-left: 119vh;
     position: absolute;
-    margin-bottom: 30px;
+    margin-top: 10px;
 }
-.aboutus img {
-    margin-left: 90vh;
-    margin-top: 2vh;
+.aboutus {
+    font-weight: 900;
+    font-size: 25px;
+    margin-left: 40px;   
+}
+.aboutus > h1 {
+    font-size: 25px;
+    margin-top: 5px;
+
 }
 
 .para2 p {

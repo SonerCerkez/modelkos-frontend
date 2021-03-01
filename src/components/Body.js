@@ -3,7 +3,6 @@ import '../App.css'
 
 import img from '../assets/10366.png'
 import img1 from '../assets/longline.png'
-import img2 from '../assets/ourstory.png'
 import img3 from '../assets/shortline.png'
 import { Button } from './Button'
 
@@ -18,7 +17,7 @@ function Body() {
                         <img src={img1} alt=""/>      
                 </div>
                 <div className="inline">
-                <img src={img2} alt=""/>  
+                <h1>Our Story</h1>  
                 </div>  
                 <div className="inlineimage">
                 <img src={img3} alt=""/>
