@@ -5,9 +5,6 @@ import './Button.css'
 
 import img1 from '../assets/line31.png'
 import img2 from '../assets/line57.png'
-
-import img4 from '../assets/have.png'
-import img5 from '../assets/contact.png'
 import img6 from '../assets/messages.png'
 
 
