@@ -21,13 +21,18 @@
     
     position: absolute;
 }
-.tree2 img {
-    margin-bottom: 30px;
+.tree2 > h1 {
+    margin-top: -5px;
+    position: absolute;
     margin-left: 250px;
+    font-size: 45px;
 
 }
-.tree3 img {
+.tree3 > p {
     position: absolute;
-    margin-bottom: 50px;
+    
     margin-left: 190px;
+    font-size: 28px;
+    margin-top: 12vh;
+    
 }

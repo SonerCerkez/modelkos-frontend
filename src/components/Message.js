@@ -5,15 +5,10 @@ import './Button.css'
 
 import img1 from '../assets/line31.png'
 import img2 from '../assets/line57.png'
-import img3 from '../assets/touch.png'
+
 import img4 from '../assets/have.png'
 import img5 from '../assets/contact.png'
 import img6 from '../assets/messages.png'
-
-
-
-
-
 
 
 
@@ -29,13 +24,17 @@ function Message() {
                 
             <img src={img2} alt=""/>
             <div className="touch">
-            <img src={img3} alt=""/>
+            <h1>Get In Touch With Us</h1>
             </div>
             <div className="shortline">
             <img src={img1} alt=""/>
             </div>
-            <img src={img4} alt=""/>
-            <img src={img5} alt=""/>
+            <div className="send">
+            <h1>Have any Questions Send us A Message Right Now!</h1>
+            </div>
+            <div className="contact">
+            <h2>Contact us anytime, we are ready to talk to you!</h2>
+            </div>
             </div>
             <div className="message">
             <img src={img6} alt=""/>

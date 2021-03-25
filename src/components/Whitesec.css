@@ -101,10 +101,19 @@
 .goat img {
     position: absolute;
 }
-.send img {
+.send > h1 {
+    position: absolute;
+    margin-top: 0vh; 
+    margin-left: 10vh;
+    font-size: 45px;
+    font-weight: 600;
+}
+.paragraf > p {
     position: relative;
-    margin-left: 70px;
-    margin-bottom: 20px;
+    margin-top: 15vh;
+    margin-left: 3vh;
+    font-size: 25px;
+    
 }
 
 .lapind img {

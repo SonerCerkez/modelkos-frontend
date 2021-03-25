@@ -4,8 +4,6 @@
     color: #fff;
      
 }
-
-
 .fotoja2 img {
     width: 99%;
     height: 50%;
@@ -26,19 +24,19 @@
 .lineheight1 img {
     position: absolute;
     margin-top: 90vh;
-    margin-left: -46.5vh;
+    margin-left: -33vh;
     z-index: 1;
 }
 .lineheight2 img {
     position: absolute;
     margin-top: 94.8vh;
-    margin-left: -46.5vh;
+    margin-left: -33vh;
     z-index: 1;
 }
 .lineheight3 img {
     position: absolute;
     margin-top: 84.8vh;
-    margin-left: -46.5vh;
+    margin-left: -33vh;
     z-index: 1;
 
 }

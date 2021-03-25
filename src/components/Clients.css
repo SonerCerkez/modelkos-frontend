@@ -75,3 +75,18 @@ padding: 10px;
     }
 }
 
+.first > p {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 23px;
+}
+.second > p {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 23px;
+}
+.third > p {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 23px;
+}

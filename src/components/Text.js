@@ -1,12 +1,9 @@
 import './Text.css'
 import '../App.css'
 import './Button.css'
-import img1 from '../assets/bookmodel.png'
 import img2 from '../assets/shortline.png'
 import img3 from '../assets/shortl.png'
 import img4 from '../assets/longline.png'
-import img5 from '../assets/attach.png'
-import img6 from '../assets/offer.png'
 
 
 
@@ -20,10 +17,14 @@ function Text() {
             <img src={img4} alt=""/>
             <img src={img2} alt=""/>
             <div className="modelbook">
-            <img src={img1} alt=""/>
+            <h1>Book a model</h1>
             </div>
-            <img src={img5} alt=""/>
-            <img src={img6} alt=""/>
+            <div className="paragraph">
+            <p>We attach great importance to ambition and punctuality. We reach together with you high quality, <br /> representative results which convince your customers.  </p>
+            </div>
+            <div className="offer">
+            <h1>What we offer</h1>
+            </div>
             <div className="shortl">
             <img src={img3} alt=""/>
             </div>

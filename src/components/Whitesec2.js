@@ -1,8 +1,6 @@
 import './Whitesec2.css'
 import '../App.css'
 import './Button.css'
-import img19 from '../assets/introduction.png'
-import img20 from '../assets/after.png'
 import img21 from '../assets/three.png'
 import img22 from '../assets/Path3.png'
 import img23 from '../assets/int.png'
@@ -27,10 +25,10 @@ function Whitesec2() {
                 <img src={img21} alt=""/>  
                 </div>           
                 <div className="tree2">           
-                <img src={img19} alt=""/>
+                <h1>Introduction and Interview</h1>
                 </div>                
                 <div className="tree3">                       
-                <img src={img20} alt=""/>
+                <p>After we review your application we invite you for an interview <br /> at our office. You can introduce yourself to our proffesional team. </p>
                 </div>     
                 </div>
                 </div>

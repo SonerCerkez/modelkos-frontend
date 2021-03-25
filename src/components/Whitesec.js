@@ -3,18 +3,13 @@ import '../App.css'
 import './Button.css'
 import img1 from '../assets/linefull.png'
 import img2 from '../assets/Line14.png'
-import img3 from '../assets/application.png'
 import img4 from '../assets/laptop.png'
 import img5 from '../assets/Path1.png'
 import img6 from '../assets/one.png'
-import img7 from '../assets/online.png'
-import img8 from '../assets/check.png'
 import img9 from '../assets/line1.png'
 import img10 from '../assets/Polygon1.png'
-import img11 from '../assets/send.png'
 import img12 from '../assets/Path2.png'
 import img13 from '../assets/two.png'
-import img14 from '../assets/value.png'
 import img15 from '../assets/lapindex.png'
 import img16 from '../assets/laptop2.png'
 import img17 from '../assets/line2.png'
@@ -61,10 +56,12 @@ function Whitesec() {
                 <img src={img13} alt=""/>
                 </div>
                 <div className="send">
-                <img src={img11} alt=""/>
-                </div>
-                <img src={img14} alt=""/>
+                <h1>Send us your story and <br /> your modeling journey </h1>
                 
+                </div>
+                <div className="paragraf">
+                <p>We value all the applications and check them in details. <br /> Send us your portfolio</p>
+                </div>
                 <div className="lapind">
                     <div className="lapmid1">
                 <img src={img15} alt=""/>

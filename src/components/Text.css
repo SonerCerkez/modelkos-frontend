@@ -5,12 +5,23 @@
     margin-top: 60px;
     margin-left: 100px;
 }
-.modelbook img {
-    margin-left: 22vh;
+.modelbook > h1 {
+    margin-left: 27vh;
+    font-size: 45px;
     margin-top: -5vh;
     position: absolute;
 }
 .shortl img {
     margin-top: -1vh;
     margin-left: 17vh;
+}
+.paragraph > p {
+    font-size: 27px;
+    margin-left: 105px;
+
+}
+.offer > h1 {
+    font-size: 45px;
+    margin-right: 50px;
+    margin-left: 125px;
 }

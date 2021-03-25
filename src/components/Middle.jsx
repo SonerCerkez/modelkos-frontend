@@ -3,8 +3,6 @@ import '../App.css'
 import './Button.css'
 import img1 from '../assets/blurr.png'
 import img2 from '../assets/spot.png'
-import img3 from '../assets/become.png'
-import img4 from '../assets/are.png'
 import img5 from '../assets/pre.png'
 import { Button } from './Button'
 
@@ -26,11 +24,17 @@ function Middle() {
         </div>
         </div>
         <div className="custom">
-        <img src={img3} alt=""/>
+        <h1>BECOME A MODEL</h1>
         <div className="custom2">
-        <img src={img4} alt=""/>
+        <h1>Advertising spots for streaming, TV and cinema</h1>
         </div>
-        <div className="custom2">
+        <div className="custom5">
+        <h1>Advertising spots for streaming, TV and cinema</h1>
+        </div>
+        <div className="custom6">
+        <h1>Advertising spots for streaming, TV and cinema</h1>
+        </div>
+        <div className="custom3">
         <img src={img5} alt=""/>
         </div>
         <div className="custom4">

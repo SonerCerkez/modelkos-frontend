@@ -14,10 +14,24 @@
     margin-top: -25vh;
     
 }
-.touch img {
+.touch > h1 {
     margin-left: 170px;
+    font-weight: 650;
+    font-size: 45px;
+    
 }
 .shortline img {
     position: absolute;
-    margin-top: -28px;
+    margin-top: -6vh;
+}
+
+.send > h1 {
+    font-size: 30px;
+    margin-top: -25px;
+}
+.contact > h2 {
+    margin-bottom: 10px;
+    position: absolute;
+    margin-left: 95px;
+    padding: 5px;
 }

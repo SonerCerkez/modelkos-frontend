@@ -3,11 +3,14 @@
     width: 100%;
     margin-top: -30px;   
 }
-.custom img {
-    position: relative;
-    justify-content: center;
-    align-items: center;
-    margin-left: 600px;
+.custom > h1 {
+    position: absolute;
+    color: #fff;
+    font-size: 55px;
+    margin-left: 80vh;
+    margin-top: -1px;
+    font-weight: 700;
+    
 }
 .custom1 img {
     margin-left: 5px;
@@ -22,20 +25,38 @@
     width: 99%;
     
 }
-.custom2 img {
-    margin-top: 60px;
-    margin-left: 500px;
+.custom2 > h1 {
+    margin-top: 140px;
+    margin-left: 66vh;
+    padding: 30px;
+    color: #fff;
+    position: absolute;
+}
+.custom5 > h1 {
+    margin-top: 192px;
+    margin-left: 66vh;
+    padding: 30px;
+    color: #fff;
+    position: absolute;
+}
+.custom6 > h1 {
+    margin-top: 240px;
+    margin-left: 66vh;
+    padding: 30px;
+    color: #fff;
+    position: absolute;
 }
 .custom4 button {
     color: black;
     font-size: 25px;
-    height: 40px;
+    height: 50px;
     border-radius: 5px;
     margin-left: 90vh;
-    margin-top: 40px;
+    margin-top: 30vh;
     cursor: pointer;
     transition: all 0.3s ease-out;
     position: relative;
     background-color: transparent;
     color: #fff;
+
 }
