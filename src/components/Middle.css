@@ -12,6 +12,19 @@
     font-weight: 700;
     
 }
+.custom7 > p  {
+    position: absolute;
+    color: #fff;
+    margin-left: 60vh;
+    font-size: 35px;
+    margin-top: -110px;
+}
+.custom8 > h1 {
+    color: #fff;
+    position: absolute;
+    margin-left: 65vh;
+    margin-top: -31vh;
+}
 .custom1 img {
     margin-left: 5px;
     

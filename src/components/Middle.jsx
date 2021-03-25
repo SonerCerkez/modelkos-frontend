@@ -29,16 +29,22 @@ function Middle() {
         <h1>Advertising spots for streaming, TV and cinema</h1>
         </div>
         <div className="custom5">
-        <h1>Advertising spots for streaming, TV and cinema</h1>
+        <h1>Fashion Show</h1>
         </div>
         <div className="custom6">
-        <h1>Advertising spots for streaming, TV and cinema</h1>
+        <h1>Advertising, Online Shops and Social Media </h1>
         </div>
         <div className="custom3">
         <img src={img5} alt=""/>
         </div>
         <div className="custom4">
         <Button buttonStyle='btn--outlinee12'>Become a model</Button> 
+        </div>
+        <div className="custom7">
+        <p>Prerequisites: Modeling with ambition and dicipline</p>
+        </div>
+        <div className="custom8">
+            <h1>Are you ready for?</h1>
         </div>
         </div>
         </div>
