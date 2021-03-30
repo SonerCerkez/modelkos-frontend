@@ -99,7 +99,7 @@ function Whitesec() {
                 <div className="right">
                 <img src={img6} alt=""/>
                 <h1>Online Application</h1>
-                <p>Check the requirements for becoming a model <br /> and if you think you are a perfect fit, follow step2.</p>
+                <p>Check the requirements for becoming a model <br /> and if you think you are a perfect fit, follow step 2.</p>
                 </div>
                 <div className="lineone">
                 <img src={img9} alt=""/>
