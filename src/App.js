@@ -6,9 +6,10 @@ import Home from './components/pages/Home'
 
 
 
+
 function App() {
   return (
-    <div>
+    <div className='App'>
       <Router>
       <Navbar /> 
       <Switch>

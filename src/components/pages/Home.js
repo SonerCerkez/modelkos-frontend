@@ -12,6 +12,7 @@ import Whitesec from '../Whitesec'
 import Whitesec2 from '../Whitesec2'
 import Text from '../Text'
 import Portfolio2 from '../Portfolio2'
+
 import Clients from '../Clients'
 import Middlelogo from '../Middlelogo'
 import Message from '../Message'
@@ -46,6 +47,7 @@ import Form from '../Form'
         <Whitesec2 />
         <Text />
         <Portfolio2 />
+        
         <Clients />
         <Message />
         <Form />
