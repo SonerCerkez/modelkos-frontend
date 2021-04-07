@@ -14,8 +14,15 @@
 .longline img {
     margin-left: 80vh;
 }
-@media screen and (max-width: 768px) {
-    
+.aboutus > p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+      'Lucida Sans', Arial, sans-serif;
+  }
+.aboutus {
+    display: flex;
+  font-weight: 900;
+  font-size: 22px;
+  
 }
 .shortline img {
     margin-left: 119vh;
@@ -29,8 +36,9 @@
 }
 .aboutus > h1 {
     font-size: 25px;
-    margin-top: 5px;
-    font-weight: 650;
+    margin-top: 25px;
+    font-weight: 700;
+    
 
 }
 
@@ -63,3 +71,4 @@
     border: 2px solid black;
 }
 
+@media screen and (max-width: 768px) { }
