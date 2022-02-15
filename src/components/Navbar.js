@@ -9,6 +9,7 @@ function Navbar() {
 
     const[click, setClick] = useState(false)
     const [button, setButton] = useState(true)
+  
 
     const handleClick = () => setClick(!click)
     const closeMobileMenu = () => setClick(false)
@@ -27,10 +28,15 @@ function Navbar() {
 
     window.addEventListener('resize', showButton);
 
+
+    
+
+
+
     return (
         <div>
             
-            <nav className="navbar">
+            <nav className="navbar active">
                 <div className="navbar-container">
                 <Link to="/" className="navbar-logo" onClick={closeMobileMenu} >
                 <img src={img1} alt=""/>
