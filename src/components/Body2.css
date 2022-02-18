@@ -1,74 +1,75 @@
 .container-2 {
-    display: flex;
-    flex-direction: row;
-    padding: 100px;
+  display: flex;
+  flex-direction: row;
+  padding: 100px;
 }
 
 .container--djathtas p {
-    width: 100%;
-    margin-left: -20px;
-    font-weight: 600;
-    font-size: 20px;
-    float: right;
+  width: 100%;
+  margin-left: -20px;
+  font-weight: 600;
+  font-size: 20px;
+  float: right;
 }
 .longline img {
-    margin-left: 80vh;
+  margin-left: 80vh;
 }
 .aboutus > p {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
-      'Lucida Sans', Arial, sans-serif;
-  }
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+}
 .aboutus {
-    display: flex;
+  display: flex;
   font-weight: 900;
   font-size: 22px;
-  
 }
 .shortline img {
-    margin-left: 119vh;
-    position: absolute;
-    margin-top: 10px;
+  margin-left: 119vh;
+  position: absolute;
+  margin-top: 10px;
 }
 .aboutus {
-    font-weight: 900;
-    font-size: 25px;
-    margin-left: 40px;   
+  font-weight: 900;
+  font-size: 25px;
+  margin-left: 40px;
 }
 .aboutus > h1 {
-    font-size: 25px;
-    margin-top: 25px;
-    font-weight: 700;
-    
-
+  font-size: 25px;
+  margin-top: 25px;
+  font-weight: 700;
 }
 
 .para2 p {
-    width: 50%;
-    margin-right: 25px;
+  width: 50%;
+  margin-right: 25px;
 }
 .para2 button {
-    margin-right: -20px;
+  margin-right: -20px;
 }
 .container--djathtas h1 {
-    font-size: 40px;
-    margin-left: 850px;
-    
+  font-size: 40px;
+  margin-left: 850px;
 }
 .container--djathtas button {
-    float: right;
-    width: 130px;
-    height: 40px;
-    font-size: 20px;
-    background-color: black;
-    color: #fff;
-    margin-right: -600px;
-    margin-top: 17%;
+  float: right;
+  width: 130px;
+  height: 40px;
+  font-size: 20px;
+  background-color: black;
+  color: #fff;
+  margin-right: -600px;
+  margin-top: 17%;
 }
 
 .para2 button {
-    font-size: 18px;
-    width: 150px;
-    border: 2px solid black;
+  font-size: 18px;
+  width: 150px;
+  border: 2px solid black;
 }
 
-@media screen and (max-width: 768px) { }
+@media screen and (max-width: 768px) {
+  .container--majtas > img {
+    margin-top: -23vh;
+    margin-left: -6vh;
+  }
+}

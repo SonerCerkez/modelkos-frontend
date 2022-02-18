@@ -14,7 +14,6 @@ import img8 from '../assets/shortl.png'
 import img9 from '../assets/ana.png'
 import img10 from '../assets/anagashi.png'
 import img11 from '../assets/quote3.png'
-
 import img12 from '../assets/shortl.png'
 import img13 from '../assets/diana.png'
 import img14 from '../assets/dianasopi.png'

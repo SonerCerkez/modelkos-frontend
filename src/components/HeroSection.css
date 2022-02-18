@@ -75,7 +75,7 @@
   }
 }
 @media screen and (max-width: 768px) {
-  .btn--large {
-    width: 5vh;
+  .hero-btns button {
+    width: 24vh;
   }
 }
