@@ -1,75 +1,58 @@
-.container-2 {
+.container--body2 {
   display: flex;
   flex-direction: row;
-  padding: 100px;
+  height: 70vh;
+  justify-content: space-around;
+  align-items: center;
 }
-
-.container--djathtas p {
-  width: 100%;
-  margin-left: -20px;
-  font-weight: 600;
-  font-size: 20px;
-  float: right;
+.block-2 p {
+  width: 75vh;
+  height: 25vh;
+  font-size: 18px !important ;
 }
-.longline img {
-  margin-left: 80vh;
+.block-2 h1 {
+  font-size: 35px !important ;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
 }
-.aboutus > p {
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
-    'Lucida Sans', Arial, sans-serif;
+.block-2 {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
 }
-.aboutus {
+.inline-1 {
   display: flex;
-  font-weight: 900;
-  font-size: 22px;
+  flex-direction: row;
 }
-.shortline img {
-  margin-left: 119vh;
-  position: absolute;
-  margin-top: 10px;
-}
-.aboutus {
-  font-weight: 900;
-  font-size: 25px;
-  margin-left: 40px;
-}
-.aboutus > h1 {
-  font-size: 25px;
-  margin-top: 25px;
-  font-weight: 700;
-}
-
-.para2 p {
-  width: 50%;
-  margin-right: 25px;
-}
-.para2 button {
-  margin-right: -20px;
-}
-.container--djathtas h1 {
-  font-size: 40px;
-  margin-left: 850px;
-}
-.container--djathtas button {
+.inline-1 h1 {
+  margin-left: 50vh;
   float: right;
-  width: 130px;
-  height: 40px;
-  font-size: 20px;
-  background-color: black;
-  color: #fff;
-  margin-right: -600px;
-  margin-top: 17%;
 }
-
-.para2 button {
-  font-size: 18px;
-  width: 150px;
-  border: 2px solid black;
+.inline-1 img {
+  height: 8px;
+  width: 100px;
+  margin-top: 50px;
 }
-
+.inline-2 img {
+  float: right;
+}
 @media screen and (max-width: 768px) {
-  .container--majtas > img {
-    margin-top: -23vh;
-    margin-left: -6vh;
+  .container--body2 {
+    display: flex;
+    flex-direction: column;
+  }
+}
+@media screen and (max-width: 768px) {
+  .container--body2 p {
+    width: 40vh;
+    margin-left: 15vh;
+    height: 23vh;
+  }
+}
+@media screen and (max-width: 768px) {
+  .container--body2 h1 {
+    width: 40vh;
+    margin-left: 15vh;
   }
 }

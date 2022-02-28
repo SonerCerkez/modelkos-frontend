@@ -13,35 +13,24 @@ function Body2() {
     
     return (
         
-        <div className='container-2'>
-            <div className='container--majtas'>
-                <img src={img} alt='model7'/>
-                </div>
-                
-                <div className='container--djathtas'> 
-                
-                <div className="longline">
-                <img src={img1} alt='model8'/>
-                </div>   
-                
-                <div className="aboutus">
-                <h1>About us</h1>
-                </div>
-                <div className="shortline">
-                <img src={img2} alt='model8'/>
-                </div> 
-                <div className="para2">
-                <p>ModelKos was build in fundamental principles of supplying quality talent to quality clients. 
-                    The number of beautiful women in Kosovo is extensive. With all these talents around we have 
-                    decided to give them the chance to be models. We are one of the fastest growing agency's in Kosovo.</p>  
-                    <Button buttonStyle='btn--outlinee12'>Read More</Button>                        
-                    </div>   
-                      
-                    
-                  
+        <div class="container--body2">
+
+          <div class="block-1">
+            <img src={img} alt="picture" />
+          </div>
+
+          <div class="block-2">
+            <div className="inline-2">
+            <img src={img1} alt="longline"/>    
             </div>
-            
-        </div>
+            <div className="inline-1">     
+            <h1>AboutUs</h1>
+            <img src={img2} alt="shortline" />
+            </div>   
+            <p>ModelKos was build in fundamental principles of supplying quality talent to quality clients. The number of beautiful women in Kosovo is extensive.
+               With all these talents around we have decided to give them the chance to be models. We are one of the fastest growing agency's in Kosovo. </p> 
+          </div>
+          </div>
              
         
          

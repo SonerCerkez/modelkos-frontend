@@ -79,3 +79,28 @@
     margin-right: 27px;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .portfolio--style button {
+    width: 20vh;
+    margin-left: 16vh;
+  }
+}
+@media screen and (max-width: 768px) {
+  .portfolio--style1 button {
+    width: 20vh;
+    margin-left: 16vh;
+  }
+}
+@media screen and (max-width: 768px) {
+  .portfolio--style2 button {
+    width: 20vh;
+    margin-left: 16vh;
+  }
+}
+@media screen and (max-width: 768px) {
+  .portfolio--style3 button {
+    width: 20vh;
+    margin-left: 16vh;
+  }
+}
